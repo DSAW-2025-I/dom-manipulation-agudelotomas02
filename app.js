@@ -1,16 +1,16 @@
 let images = [
     {
-        "url": "dom-manipulation-agudelotomas02/assets/image_1.jpg",
+        "url": "./assets/image_1.jpg",
         "name": "Picture 1",
         "description": "La primera imagen corresponde a un lago"
     },
     {
-        "url": "dom-manipulation-agudelotomas02/assets/image_2.jpeg",
+        "url": "./assets/image_2.jpeg",
         "name": "Picture 2",
         "description": "La segunda imagen muestra un mar morado"
     },
     {
-        "url": "dom-manipulation-agudelotomas02/assets/image_3.jpeg",
+        "url": ".//assets/image_3.jpeg",
         "name": "Picture 3",
         "description": "La tercera imagen es un mar naranja"
     },
