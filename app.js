@@ -10,7 +10,7 @@ let images = [
         "description": "La segunda imagen muestra un mar morado"
     },
     {
-        "url": ".//assets/image_3.jpeg",
+        "url": "./assets/image_3.jpeg",
         "name": "Picture 3",
         "description": "La tercera imagen es un mar naranja"
     },
